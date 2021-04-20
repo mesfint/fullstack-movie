@@ -1,0 +1,17 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "Node  Js tutorial",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MesfinT",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
